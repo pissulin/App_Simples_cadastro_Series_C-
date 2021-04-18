@@ -1,0 +1,11 @@
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.exe
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.deps.json
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.runtimeconfig.json
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.runtimeconfig.dev.json
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.dll
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\bin\Debug\netcoreapp3.0\APP-series.pdb
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\obj\Debug\netcoreapp3.0\APP-series.csprojAssemblyReference.cache
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\obj\Debug\netcoreapp3.0\APP-series.AssemblyInfoInputs.cache
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\obj\Debug\netcoreapp3.0\APP-series.AssemblyInfo.cs
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\obj\Debug\netcoreapp3.0\APP-series.dll
+C:\Users\pissu\Desktop\workspace\Bootcamp-MRV-c#\APP-cadastro-dotnet\APP-series\obj\Debug\netcoreapp3.0\APP-series.pdb
